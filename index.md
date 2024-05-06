@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am studying a Bachelor of Advanced Science (Honours) at the University of Queensland, majoring in Biochemistry and Molecular Biology and minoring in Computational Sciences, with my electives filled with software engineering courses. I am striving towards a career as a Research Software Engineer and being able to work with MDAnalysis through GSoC this year is a really exciting leap in that direction for me. I have already learned so much through the application process and I cannot wait to learn more and contribute back to this community. Follow along on my journey the next 6 months as I document my experience as a GSoC contributor!
