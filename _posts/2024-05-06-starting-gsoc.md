@@ -1,3 +1,7 @@
+---
+title: Starting Google Summer of Code
+---
+
 # Adjustments
 
 While I officially started GSoC a couple weeks ago, I have only just finished my exams for this university semester. I am really keen to sink my teeth into this project and start putting in the hours now. I have had two meetings so far with my three mentors, Hugo, Cedric and Xu Hong. We have made some adjustments both to how this project will work and what the end result will be. The OpenBabel Converter will now be a MDAKit which we hope to integrate into the main code base in the future. There has been some adjustments to the three classes, where the OpenBabelReader will read trajectory positions, to make a Universe alongside the OpenBabelParser which will read atoms. 
